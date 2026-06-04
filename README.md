@@ -23,6 +23,14 @@ OBSERVATION TABLE
 <img width="899" height="1599" alt="WhatsApp Image 2026-06-04 at 7 20 41 AM" src="https://github.com/user-attachments/assets/d861cee6-f96f-4156-80ff-7cb774524f08" />
 <img width="899" height="1599" alt="WhatsApp Image 2026-06-04 at 7 20 09 AM" src="https://github.com/user-attachments/assets/189177ff-838e-4754-96f0-fbf16b8c59aa" />
 
+<img width="571" height="660" alt="image" src="https://github.com/user-attachments/assets/a7f2d2f4-d850-4c36-921a-2e64936aab12" />
+<img width="571" height="660" alt="image" src="https://github.com/user-attachments/assets/4973f2b6-fc70-49d5-bdc6-e42dab1d634a" />
+<img width="571" height="660" alt="image" src="https://github.com/user-attachments/assets/1a6aa40f-a65c-46c8-8315-c8a99cd82d23" />
+<img width="571" height="660" alt="image" src="https://github.com/user-attachments/assets/dff7753a-9139-4105-85cd-c03bcaa7f786" />
+
+
+
+
 
 
 PRECAUTION: -
