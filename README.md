@@ -9,6 +9,8 @@ THEORY: - LVDT is basically a mutual inductance type transformer with variable c
 
 DIAGRAM:
 CIRCUIT DIAGRAM
+<img width="1599" height="899" alt="WhatsApp Image 2026-06-04 at 7 20 31 AM" src="https://github.com/user-attachments/assets/a7bf6db3-4c7f-4927-8cee-f65b17c3c21f" />
+
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
@@ -18,6 +20,10 @@ I. Connect the multimeter at the output of kit..
 
 
 OBSERVATION TABLE
+<img width="899" height="1599" alt="WhatsApp Image 2026-06-04 at 7 20 41 AM" src="https://github.com/user-attachments/assets/d861cee6-f96f-4156-80ff-7cb774524f08" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-06-04 at 7 20 09 AM" src="https://github.com/user-attachments/assets/189177ff-838e-4754-96f0-fbf16b8c59aa" />
+
+
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
